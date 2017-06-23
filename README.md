@@ -1,9 +1,9 @@
-#Tic-tak-toe using machine learning
+# Tic-tak-toe using machine learning
 
 linear classifier is used in trainnig
 v(b)=w1 + w2*x1+ w2*x2+ w3*x3+ w4*x4
 
-##Features used
+## Features used
 1. Number of ones(x1) 'o' rows
 2. Number of two(x3)  'o' rows
 3. NUmber of ones(x2) 'x' rows
